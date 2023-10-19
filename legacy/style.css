@@ -1,0 +1,25 @@
+header{
+font-family: 'Oswald', sans-serif; 
+font-size:25px; 
+background-color: #D2B48C;
+font-family: 'Aref Ruqaa', serif;
+
+}
+
+
+body{
+	background-color:#FFEBCD;
+	padding:25px 50px;
+	margin: 30px;
+	border:2px solid black;
+}
+
+p{
+font-size:20px;
+line-height:2;
+font-family: 'Katibeh', cursive;
+}
+
+h2{
+	font-family: 'Aref Ruqaa', serif;
+}
